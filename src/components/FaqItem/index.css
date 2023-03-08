@@ -1,0 +1,31 @@
+/* Write your code here. */
+.container {
+  border-style: solid;
+  border-color: #d7dae6;
+  border-width: 1px;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 30px;
+}
+
+.question {
+  color: #52606d;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.plus-btn {
+  border-style: none;
+  background-color: transparent;
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.answer-text {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
